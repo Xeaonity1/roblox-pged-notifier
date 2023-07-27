@@ -42,8 +42,8 @@ DrKrushU:55:david@pgresearch.com
 sellison:53:sellison@softrobotics.net
 RockMSockM:54:dbreiner@sbcglobal.net
 Loch56:52:dlocher@socal.rr.com
-darrell_young:57:darrell.young@gmail.com
-pvgalvins:59:pvgalvins@comcast.net
+darrell_young:
+pvgalvins:59:pvgalvins@comcast.netng:57:darrell.young@gmail.com
 kursse:58:kursse@yahoo.com
 billturner:51:jcc01@firsttrack.com
 Chris:65:chris@garmentdistrict.com
